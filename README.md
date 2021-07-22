@@ -24,7 +24,7 @@ cd oneapi
 
 ## History
 
-dates: 21 - 22, 2021
+dates: July 21 - 22, 2021
 
 duration: 2 hours
 
