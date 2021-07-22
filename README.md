@@ -42,4 +42,4 @@ Rod Burns posted about how to add logging to a kernel function.
 
 ## Output
 
-[Output](https://github.com/TallDave67/parallel-bhost-accessor-waits-for-asynchronous-kernel-execution/blob/main/oneapi/output.txt)
+[Output](https://github.com/TallDave67/parallel-host-accessor-waits-for-asynchronous-kernel-execution/blob/main/oneapi/output.txt)
