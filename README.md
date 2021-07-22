@@ -1,6 +1,6 @@
 # Parallel: Host Accessor Waits for Asynchronous Kernel Execution (DPC++)
 
-Using Intel's oneAPI DPC++.  The kernel function invoked by a command group submitted to a queue will execute asynchronously.  By contrast, the host call to submit the command group returns immediately.  One way to make the host wait for kernel execution to complete is for the host to acquire a host_accessor to a buffer used by the kernel.
+Using Intel's oneAPI DPC++.  The kernel function invoked by a command group submitted to a queue will execute asynchronously.  By contrast, the host call to submit the command group returns immediately.  One way to make the host wait for kernel execution to complete is for the host to acquire an accessor to a buffer used by the kernel.
 
 Linux distro "Pop!_OS 21.04"
 
